@@ -87,7 +87,9 @@ ECLASS는 대학생들과 교수님의 요구사항을 바탕으로 '온라인 �
 -결제하기
 <img width="960" alt="pt88" src="https://user-images.githubusercontent.com/66661653/92558944-9405ed80-f2aa-11ea-9d6a-a1d5c341a273.png">
 
--과목 
+-과목 등록하기
+<img width="960" alt="pt88" src="https://user-images.githubusercontent.com/68590721/92686073-e7903e00-f373-11ea-934a-6d7ca5d74973.png">
+
 -과목 목록보기
 <img width="960" alt="pt88" src="https://user-images.githubusercontent.com/68590721/92685480-bbc08880-f372-11ea-814c-837b02e78af6.png">
 
